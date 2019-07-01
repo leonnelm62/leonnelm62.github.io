@@ -1,1 +1,1 @@
-# Blog-System-in-Laravel
+# Système de gestion global d'un blog
